@@ -10,6 +10,8 @@
     {
       "files": "*.scss",
       "options": {
+        "trailingComma": "none",
+        "tabWidth": 2,
         "parser": "scss"
       }
     }
