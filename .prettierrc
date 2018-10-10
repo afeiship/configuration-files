@@ -14,6 +14,14 @@
         "tabWidth": 2,
         "parser": "scss"
       }
+    },
+    {
+      "files": "*.json",
+      "options": {
+        "trailingComma": "none",
+        "tabWidth": 2,
+        "parser": "json"
+      }
     }
   ]
 }
