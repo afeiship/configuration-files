@@ -19,7 +19,7 @@
       "files": "*.{css,sass,scss,less}",
       "options": {
         "parser": "postcss",
-        "tabWidth": 4
+        "tabWidth": 2
       }
     },
     {
