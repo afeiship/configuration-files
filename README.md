@@ -1,7 +1,7 @@
 # configuration-files
 > configuration files.
 
-## filelist:
+## filelist
 ~~~
 $ tree
 .
@@ -16,7 +16,8 @@ $ tree
 │   └── Rakefile
 ├── service-worker
 │   └── sw.js
-└── template
-    ├── express.js
-    └── lib.js
+└── templates
+    ├── lib.js
+    ├── server-min.js
+    └── server.js
 ~~~
