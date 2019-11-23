@@ -15,6 +15,6 @@
 
   var nx = global.nx || {};
   nx.GLOBAL = root;
-
+g
   return nx;
 });
