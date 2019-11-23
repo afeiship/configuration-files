@@ -15,6 +15,8 @@
 
   var nx = global.nx || {};
   nx.GLOBAL = root;
-g
+
+  //Here goes your code.
+
   return nx;
 });
